@@ -1,7 +1,7 @@
-# Olympic_Events_Data_Engineering_Project
+# Olympics Events Data Engineering Solution
 Olympics Events Data Engineering Solution (Sqoop, Hive, HBase, Snowflake, Power BI)
 
-# Olympics Events Data Engineering Solution
+
 
 This GitHub repository contains the code and documentation for the Olympics Events Data Engineering Solution. This project involved the extraction, transformation, and loading (ETL) of data from various sources into different data storage and analysis platforms. The primary technologies used in this project include Sqoop, Hive, HBase, Snowflake, and Power BI.
 
